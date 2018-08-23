@@ -4,3 +4,5 @@
   //init Core
 
   $init = new Core;
+
+  // test
